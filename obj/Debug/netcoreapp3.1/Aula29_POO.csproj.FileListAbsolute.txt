@@ -1,0 +1,13 @@
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.csprojAssemblyReference.cache
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.AssemblyInfoInputs.cache
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.AssemblyInfo.cs
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\bin\Debug\netcoreapp3.1\Aula29_POO.exe
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\bin\Debug\netcoreapp3.1\Aula29_POO.deps.json
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\bin\Debug\netcoreapp3.1\Aula29_POO.runtimeconfig.json
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\bin\Debug\netcoreapp3.1\Aula29_POO.runtimeconfig.dev.json
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\bin\Debug\netcoreapp3.1\Aula29_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\bin\Debug\netcoreapp3.1\Aula29_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.dll
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.pdb
+C:\Users\Matheus\Desktop\SENAI\Aula29_POO\obj\Debug\netcoreapp3.1\Aula29_POO.genruntimeconfig.cache
